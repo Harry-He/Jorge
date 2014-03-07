@@ -11,7 +11,7 @@
 #define new DEBUG_NEW
 #endif
 
-
+// Test
 // CAboutDlg dialog used for App About
 
 class CAboutDlg : public CDialogEx
